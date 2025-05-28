@@ -16,6 +16,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <limits.h>
+#include "c_util.h"
 
 #define MAX_HIST_BINS 16
 
